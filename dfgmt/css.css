@@ -1,0 +1,93 @@
+.historyProcssed
+{
+        list-style-type: none;
+        padding-left: 0px;		
+		outline: 1px solid black;
+		width : 100%;
+		height : 25px;
+		float:left;
+		background-color:grey;
+}
+
+.history
+{
+	    list-style-type: none;
+        padding-left: 0px;		
+		outline: 1px solid black;
+		width : 100%;
+		height : 25px;
+		float:left;
+		
+}
+
+.hguid 
+{
+	float:left;
+	width  :100px;
+}
+
+.horderID
+{
+	float:left;
+	width  :200px;
+}
+
+.htime
+{
+	float:left;
+	width  :200px;
+}
+
+.hname
+{
+	float:left;
+	width  :300px;
+}
+
+.hprocessed
+{
+	float:left;
+	width  :300px;
+}
+
+.onOver
+{
+	background-color:red;
+}
+
+.dragonflight_for_kakao_10_gem
+{
+	background-image:url('10.png');
+}
+
+
+
+
+
+.char
+{
+        list-style-type: none;
+        padding-left: 0px;		
+		outline: 1px solid green;
+		width : 100%;
+		height : 25px;
+		float:left;
+}
+
+.GEM
+{
+	float:left;
+	width  :200px;	
+}
+
+.WING
+{
+	float:left;
+	width  :200px;	
+}
+
+.GAME_MONEY
+{
+	float:left;
+	width  :200px;	
+}

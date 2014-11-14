@@ -1,0 +1,22 @@
+* 
+{
+	margin: 0;
+	padding: 0;
+	font: 12px;
+	color:white;
+	background-color:black;
+}
+
+#console
+{
+	height: 300px;
+	overflow: auto;
+	border: 1px;
+	padding: 20px;
+}
+#input
+{
+	width: 300px;
+	border: 3px solid #ffffff;
+	padding: 10px;
+}

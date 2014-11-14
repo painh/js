@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps>
+	<room>
+		<id>0</id>
+		<name>Test</name>
+		<descript>테스트 공간입니다.</descript>
+	</room>
+
+	<room>
+		<id>1</id>
+		<name>Test2</name>
+	</room>
+</maps>
